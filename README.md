@@ -36,5 +36,8 @@ SQL Query Helper is a Python-based application that helps users interact with a 
 3. Configure your local database and environment variables.
 4. Run the application using `streamlit run app.py`.
 
+## Application Screenshot
+
+![SQL Query Helper](project-screenshot.png)
 ## Author
 Tejasvi Wagh
