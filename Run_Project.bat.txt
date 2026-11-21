@@ -1,0 +1,9 @@
+
+@echo off
+cd /d "C:\Users\TEJASVI\OneDrive\Desktop\English_to_SQL_Project"
+
+echo Starting English to SQL Project...
+
+python -m streamlit run app.py
+
+pause
